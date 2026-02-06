@@ -1,0 +1,37 @@
+# AI Video Creator - Dependencies
+
+# YouTube API
+yt-dlp>=2023.12.30
+youtube-transcript-api>=0.6.1
+google-api-python-client>=2.108.0
+google-auth-oauthlib>=1.1.0
+
+# OpenAI for script generation
+openai>=1.7.0
+
+# ElevenLabs for TTS
+elevenlabs>=0.2.26
+
+# Discord for Midjourney integration
+discord.py>=2.3.2
+aiohttp>=3.9.1
+
+# Image processing
+Pillow>=10.1.0
+opencv-python>=4.8.1
+
+# Video editing
+moviepy>=1.0.3
+ffmpeg-python>=0.2.0
+
+# Audio processing
+pydub>=0.25.1
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+tqdm>=4.66.1
+pydantic>=2.5.0
+
+# Data handling
+pydantic-settings>=2.1.0
